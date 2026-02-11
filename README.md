@@ -1,10 +1,7 @@
-<div align="center"><h1>Hello There</h1></div>
+<div align="center"><h1>Hello There!</h1></div>
 
 # 📊 GitHub Stats:
 <div align="center">
-  <a href="https://github.com/zedmakesense">
-    <img src="https://github-readme-stats.vercel.app/api?username=zedmakesense&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Zed's GitHub Stats" />
-  </a>
   <a href="https://github.com/zedmakesense">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedmakesense&theme=gruvbox&hide_border=true&layout=compact" alt="Most Used Language" />
   </a>
