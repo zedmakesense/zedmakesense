@@ -2,8 +2,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedmakesense&theme=gruvbox&hide_border=true&layout=compact" alt="Most Used Language" />
-  </a>
 </div>
 <br/>
 <div align="center">
