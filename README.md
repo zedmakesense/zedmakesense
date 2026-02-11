@@ -1,7 +1,7 @@
 <div align="center"><h1>Hello There!</h1></div>
 <p>You can call me zed.</p>
 <p>There is nothing here right now because I am still learning, hence please be easy on me 😭.</p>
-# 📊 GitHub Stats:
+<h1>📊 GitHub Stats:</h1>
 <div align="center">
 </div>
 <br/>
