@@ -1,6 +1,6 @@
 <div align="center"><h1>Hello There!</h1></div>
-You can call me zed.
-There is nothing here right now because I am still learning, hence please be easy on me 😭.
+<p>You can call me zed.</p>
+<p>There is nothing here right now because I am still learning, hence please be easy on me 😭.</p>
 # 📊 GitHub Stats:
 <div align="center">
 </div>
