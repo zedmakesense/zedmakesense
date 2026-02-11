@@ -1,5 +1,6 @@
 <div align="center"><h1>Hello There!</h1></div>
 
+There is nothing here right now because I am still learning,hence please be easy on me.
 # 📊 GitHub Stats:
 <div align="center">
 </div>
