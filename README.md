@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center"><h1>Hello There</h1></div>
 
-<!--
-**zedmakesense/zedmakesense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+<div align="center">
+  <a href="https://github.com/zedmakesense">
+    <img src="https://github-readme-stats.vercel.app/api?username=zedmakesense&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Zed's GitHub Stats" />
+  </a>
+  <a href="https://github.com/zedmakesense">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedmakesense&theme=merko&hide_border=true&layout=compact" alt="Most Used Language" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/zedmakesense">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zedmakesense&theme=merko" alt="Profile Details" />
+  </a>
+</div>
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Zed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asifdotexe&theme=merko)](https://github.com/zedmakesense/github-readme-activity-graph)
