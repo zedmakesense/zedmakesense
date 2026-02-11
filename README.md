@@ -17,4 +17,4 @@
 </div>
 <br/>
 
-[![Zed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asifdotexe&theme=merko)](https://github.com/zedmakesense/github-readme-activity-graph)
+[![Zed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zedmakesense&theme=gruvbox)](https://github.com/zedmakesense/github-readme-activity-graph)
