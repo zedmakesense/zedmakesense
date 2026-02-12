@@ -7,9 +7,9 @@
 <br/>
 <div align="center">
   <a href="https://github.com/zedmakesense">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zedmakesense&theme=merko" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zedmakesense&theme=github" alt="Profile Details" />
   </a>
 </div>
 <br/>
 
-[![Zed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zedmakesense&theme=gruvbox)](https://github.com/zedmakesense/github-readme-activity-graph)
+[![Zed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zedmakesense&theme=github)](https://github.com/zedmakesense/github-readme-activity-graph)
