@@ -1,6 +1,5 @@
 <div align="center"><h1>Hello There!</h1></div>
 
----
 > You can call me zed, a person who is really intrested in linux and breaking stuff... YEAH YOU BREAK STUFF TO LEARN FROM IT.
 
 ## 🌱 Currently Learning:
