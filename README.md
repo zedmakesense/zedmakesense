@@ -3,6 +3,8 @@
 > Backend & Infrastructure-focused developer.  
 > I work with Go and Linux, and I learn by building systems and breaking them.
 
+🔗 **Portfolio:** [zedmakesense.github.io/portfolio](https://zedmakesense.github.io/portfolio)
+
 ## 🌱 Currently Learning
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
