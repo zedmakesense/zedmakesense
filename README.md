@@ -1,9 +1,15 @@
-<div align="center"><h1>Piyush</h1></div>
+<div align="center">
+  <h1>Piyush</h1>
+  <p>
+    Backend & Infrastructure-focused developer.<br>
+    I work with Go and Linux, and I learn by building systems and breaking them.
+  </p>
+  <p>
+    <a href="https://zedmakesense.github.io/portfolio">Portfolio</a>
+  </p>
+</div>
 
-> Backend & Infrastructure-focused developer.  
-> I work with Go and Linux, and I learn by building systems and breaking them.
-
-🔗 **Portfolio:** [zedmakesense.github.io/portfolio](https://zedmakesense.github.io/portfolio)
+---
 
 ## 🌱 Currently Learning
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
